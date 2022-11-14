@@ -20,9 +20,4 @@ or
 npm install
 ```
 
-### live demo on Expo
 
-[Live demo](https://expo.io/@coderkhalid/projects/uber-clone)
-
-# My Portfolio 
-[khaliddev.com](https://www.khaliddev.com/)
